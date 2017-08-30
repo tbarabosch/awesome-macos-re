@@ -1,6 +1,6 @@
-# OS X RE Tool List
+# macOS RE Tool List
 
-This repository contains a list of handy tools for reversing on Mac OS X.
+This repository contains a list of handy tools for reversing on macOS.
 I try to upgrade this list as fast as I can. Just drop me an email if there is a handy tool that is not listed yet.
 
 ## Static Analysis
